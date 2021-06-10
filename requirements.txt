@@ -19,7 +19,7 @@ en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.0/en_core_web_sm-2.3.0.tar.gz
 entrypoints==0.3
 es-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/es_core_news_lg-2.3.0/es_core_news_lg-2.3.0.tar.gz
-fastapi==0.58.1
+fastapi==0.65.2
 funcy==1.14
 future==0.18.2
 gensim==3.8.3
